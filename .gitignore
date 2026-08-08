@@ -1,0 +1,20 @@
+# Simulation artifacts
+*.vcd
+*.wlf
+*.log
+*.jou
+work/
+transcript
+
+# QuestaSim / ModelSim
+vsim.wlf
+modelsim.ini
+
+# Vivado
+*.str
+.Xil/
+*.bit
+
+# OS files
+.DS_Store
+Thumbs.db
